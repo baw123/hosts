@@ -100,53 +100,53 @@
 # 其他系统应用的垃圾sdk
 # qq扫描 bugly 阅读 快应用等api
 # 可能会影响部分功能 
-127.0.0.1 tmfsdk.m.qq.com
-127.0.0.1 tmfsdk4.m.qq.com
-127.0.0.1 tbm.snssdk.com
-127.0.0.1 othstr.beacon.qq.com
-127.0.0.1 tools.3g.qq.com
-127.0.0.1 tmfsdktcp.m.qq.com
-127.0.0.1 h.trace.qq.com
-127.0.0.1 hub5pn.wap.sandai.net
-127.0.0.1 tpstelemetry.tencent.com
-127.0.0.1 pssn.alicdn.com
-127.0.0.1 tmfsdktcpv4.m.qq.com
-127.0.0.1 tmeadcomm.y.qq.com
-127.0.0.1 tangram.e.qq.com
-127.0.0.1 us.l.qq.com
-127.0.0.1 tdid.m.qq.com
-127.0.0.1 h.trace.qq.com
-127.0.0.1 api.yky.qq.com
-127.0.0.1 sdk.e.qq.com
-127.0.0.1 android.bugly.qq.com
-127.0.0.1 toblog.ctobsnssdk.com
-127.0.0.1 tobapplog.ctobsnssdk.com
-127.0.0.1 cfg.imtt.qq.com
-127.0.0.1 statres.quickapp.cn
-127.0.0.1 qr.quickapp.cn
-127.0.0.1 hybrid.xiaomi.com
-127.0.0.1 hybrid.miui.com
-127.0.0.1 s1.irs03.com
-127.0.0.1 up.cm.ksmobile.com
-127.0.0.1 dl.cm.ksmobile.com
-127.0.0.1 dw-online.ksosoft.com
-127.0.0.1 zzhc.vnet.cn
-127.0.0.1 beacon-api.aliyuncs.com
-127.0.0.1 mpush-api.aliyun.com
-127.0.0.1 ug.snssdk.com
-127.0.0.1 t7z.cupid.iqiyi.com
-127.0.0.1 worldwide.sogou.com
-127.0.0.1 www.pangolin-dsp-toutiao.com
-127.0.0.1 master.wap.dphub.sandai.net
-127.0.0.1 hub5u.wap.sandai.net
-127.0.0.1 idx.m.hub.sandai.net
-127.0.0.1 tw13b093.sandai.net
-127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
-127.0.0.1 test.ad.xiaomi.com
-127.0.0.1 uploadlog.xlmc.sandai.net
-127.0.0.1 t03-api.xlmc.xunlei.com
-127.0.0.1 pre.api.tw06.xlmc.sandai.net
-127.0.0.1 guid-xldw-ssl.n0808.com
+# 127.0.0.1 tmfsdk.m.qq.com
+# 127.0.0.1 tmfsdk4.m.qq.com
+# 127.0.0.1 tbm.snssdk.com
+# 127.0.0.1 othstr.beacon.qq.com
+# 127.0.0.1 tools.3g.qq.com
+# 127.0.0.1 tmfsdktcp.m.qq.com
+# 127.0.0.1 h.trace.qq.com
+# 127.0.0.1 hub5pn.wap.sandai.net
+# 127.0.0.1 tpstelemetry.tencent.com
+# 127.0.0.1 pssn.alicdn.com
+# 127.0.0.1 tmfsdktcpv4.m.qq.com
+# 127.0.0.1 tmeadcomm.y.qq.com
+# 127.0.0.1 tangram.e.qq.com
+# 127.0.0.1 us.l.qq.com
+# 127.0.0.1 tdid.m.qq.com
+# 127.0.0.1 h.trace.qq.com
+# 127.0.0.1 api.yky.qq.com
+# 127.0.0.1 sdk.e.qq.com
+# 127.0.0.1 android.bugly.qq.com
+# 127.0.0.1 toblog.ctobsnssdk.com
+# 127.0.0.1 tobapplog.ctobsnssdk.com
+# 127.0.0.1 cfg.imtt.qq.com
+# 127.0.0.1 statres.quickapp.cn
+# 127.0.0.1 qr.quickapp.cn
+# 127.0.0.1 hybrid.xiaomi.com
+# 127.0.0.1 hybrid.miui.com
+# 127.0.0.1 s1.irs03.com
+# 127.0.0.1 up.cm.ksmobile.com
+# 127.0.0.1 dl.cm.ksmobile.com
+# 127.0.0.1 dw-online.ksosoft.com
+# 127.0.0.1 zzhc.vnet.cn
+# 127.0.0.1 beacon-api.aliyuncs.com
+# 127.0.0.1 mpush-api.aliyun.com
+# 127.0.0.1 ug.snssdk.com
+# 127.0.0.1 t7z.cupid.iqiyi.com
+# 127.0.0.1 worldwide.sogou.com
+# 127.0.0.1 www.pangolin-dsp-toutiao.com
+# 127.0.0.1 master.wap.dphub.sandai.net
+# 127.0.0.1 hub5u.wap.sandai.net
+# 127.0.0.1 idx.m.hub.sandai.net
+# 127.0.0.1 tw13b093.sandai.net
+# 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
+# 127.0.0.1 test.ad.xiaomi.com
+# 127.0.0.1 uploadlog.xlmc.sandai.net
+# 127.0.0.1 t03-api.xlmc.xunlei.com
+# 127.0.0.1 pre.api.tw06.xlmc.sandai.net
+# 127.0.0.1 guid-xldw-ssl.n0808.com
 
 # unknown
 127.0.0.1 data.sec.miui.com
