@@ -17,13 +17,6 @@
         "macime.sogou.com",
         "sginput.qq.com"
       ]
-    },
-    {
-      "PROCESS-NAME": [
-        "SogouInput",
-        "SOgouTaskManager",
-        "SogouServices"
-      ]
     }
   ]
 }
