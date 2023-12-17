@@ -19,12 +19,6 @@
       ]
     },
     {
-      "USER-AGENT": [
-        "com.sogou.sogouinput.BaseKeyboard",
-        "SogouInput"
-      ]
-    },
-    {
       "PROCESS-NAME": [
         "SogouInput",
         "SOgouTaskManager",
